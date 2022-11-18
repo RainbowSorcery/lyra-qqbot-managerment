@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://192.168.18.191:3306/qq_bot
+      username: root
+      password: 365373011
+  jpa:
+    database: mysql

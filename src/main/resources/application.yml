@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: qqbot-managerment
+  profiles:
+    active: dev
+server:
+  port: 8001
